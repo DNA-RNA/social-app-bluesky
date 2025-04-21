@@ -252,7 +252,7 @@ msgstr "{firstAuthorLink} gönderini beğendi"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:442
 msgid "{firstAuthorLink} removed their verification from your account"
-msgstr ""
+msgstr "{firstAuthorLink} senin hesabından doğrulamalarını kaldırdı"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:279
 msgid "{firstAuthorLink} reposted your post"
